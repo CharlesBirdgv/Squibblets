@@ -108,8 +108,8 @@ TextureImporter:
       name: high_contrast_0
       rect:
         serializedVersion: 2
-        x: 480
-        y: 1016
+        x: 352
+        y: 1048
         width: 32
         height: 32
       alignment: 0
@@ -129,8 +129,8 @@ TextureImporter:
       name: high_contrast_1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 984
+        x: 384
+        y: 1048
         width: 32
         height: 32
       alignment: 0
@@ -150,8 +150,8 @@ TextureImporter:
       name: high_contrast_2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 984
+        x: 160
+        y: 1016
         width: 32
         height: 32
       alignment: 0
@@ -171,8 +171,8 @@ TextureImporter:
       name: high_contrast_3
       rect:
         serializedVersion: 2
-        x: 96
-        y: 984
+        x: 192
+        y: 1016
         width: 32
         height: 32
       alignment: 0
@@ -192,8 +192,8 @@ TextureImporter:
       name: high_contrast_4
       rect:
         serializedVersion: 2
-        x: 288
-        y: 984
+        x: 224
+        y: 1016
         width: 32
         height: 32
       alignment: 0
@@ -213,8 +213,8 @@ TextureImporter:
       name: high_contrast_5
       rect:
         serializedVersion: 2
-        x: 320
-        y: 984
+        x: 256
+        y: 1016
         width: 32
         height: 32
       alignment: 0
@@ -234,8 +234,8 @@ TextureImporter:
       name: high_contrast_6
       rect:
         serializedVersion: 2
-        x: 416
-        y: 984
+        x: 352
+        y: 1016
         width: 32
         height: 32
       alignment: 0
@@ -255,8 +255,8 @@ TextureImporter:
       name: high_contrast_7
       rect:
         serializedVersion: 2
-        x: 448
-        y: 984
+        x: 384
+        y: 1016
         width: 32
         height: 32
       alignment: 0
@@ -277,7 +277,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 480
-        y: 984
+        y: 1016
         width: 32
         height: 32
       alignment: 0
@@ -297,8 +297,8 @@ TextureImporter:
       name: high_contrast_9
       rect:
         serializedVersion: 2
-        x: 32
-        y: 952
+        x: 832
+        y: 1016
         width: 32
         height: 32
       alignment: 0
@@ -318,8 +318,8 @@ TextureImporter:
       name: high_contrast_10
       rect:
         serializedVersion: 2
-        x: 64
-        y: 952
+        x: 32
+        y: 984
         width: 32
         height: 32
       alignment: 0
@@ -339,8 +339,8 @@ TextureImporter:
       name: high_contrast_11
       rect:
         serializedVersion: 2
-        x: 96
-        y: 952
+        x: 64
+        y: 984
         width: 32
         height: 32
       alignment: 0
@@ -360,8 +360,8 @@ TextureImporter:
       name: high_contrast_12
       rect:
         serializedVersion: 2
-        x: 160
-        y: 952
+        x: 96
+        y: 984
         width: 32
         height: 32
       alignment: 0
@@ -381,8 +381,8 @@ TextureImporter:
       name: high_contrast_13
       rect:
         serializedVersion: 2
-        x: 192
-        y: 952
+        x: 160
+        y: 984
         width: 32
         height: 32
       alignment: 0
@@ -402,8 +402,8 @@ TextureImporter:
       name: high_contrast_14
       rect:
         serializedVersion: 2
-        x: 224
-        y: 952
+        x: 192
+        y: 984
         width: 32
         height: 32
       alignment: 0
@@ -423,8 +423,8 @@ TextureImporter:
       name: high_contrast_15
       rect:
         serializedVersion: 2
-        x: 288
-        y: 952
+        x: 224
+        y: 984
         width: 32
         height: 32
       alignment: 0
@@ -444,8 +444,8 @@ TextureImporter:
       name: high_contrast_16
       rect:
         serializedVersion: 2
-        x: 320
-        y: 952
+        x: 256
+        y: 984
         width: 32
         height: 32
       alignment: 0
@@ -465,8 +465,8 @@ TextureImporter:
       name: high_contrast_17
       rect:
         serializedVersion: 2
-        x: 416
-        y: 952
+        x: 288
+        y: 984
         width: 32
         height: 32
       alignment: 0
@@ -486,8 +486,8 @@ TextureImporter:
       name: high_contrast_18
       rect:
         serializedVersion: 2
-        x: 448
-        y: 952
+        x: 320
+        y: 984
         width: 32
         height: 32
       alignment: 0
@@ -507,8 +507,8 @@ TextureImporter:
       name: high_contrast_19
       rect:
         serializedVersion: 2
-        x: 480
-        y: 952
+        x: 352
+        y: 984
         width: 32
         height: 32
       alignment: 0
@@ -528,8 +528,8 @@ TextureImporter:
       name: high_contrast_20
       rect:
         serializedVersion: 2
-        x: 32
-        y: 920
+        x: 384
+        y: 984
         width: 32
         height: 32
       alignment: 0
@@ -549,8 +549,8 @@ TextureImporter:
       name: high_contrast_21
       rect:
         serializedVersion: 2
-        x: 96
-        y: 920
+        x: 416
+        y: 984
         width: 32
         height: 32
       alignment: 0
@@ -570,8 +570,8 @@ TextureImporter:
       name: high_contrast_22
       rect:
         serializedVersion: 2
-        x: 160
-        y: 920
+        x: 448
+        y: 984
         width: 32
         height: 32
       alignment: 0
@@ -591,8 +591,8 @@ TextureImporter:
       name: high_contrast_23
       rect:
         serializedVersion: 2
-        x: 192
-        y: 920
+        x: 480
+        y: 984
         width: 32
         height: 32
       alignment: 0
@@ -612,8 +612,8 @@ TextureImporter:
       name: high_contrast_24
       rect:
         serializedVersion: 2
-        x: 224
-        y: 920
+        x: 768
+        y: 984
         width: 32
         height: 32
       alignment: 0
@@ -633,8 +633,8 @@ TextureImporter:
       name: high_contrast_25
       rect:
         serializedVersion: 2
-        x: 256
-        y: 920
+        x: 800
+        y: 984
         width: 32
         height: 32
       alignment: 0
@@ -654,8 +654,8 @@ TextureImporter:
       name: high_contrast_26
       rect:
         serializedVersion: 2
-        x: 288
-        y: 920
+        x: 832
+        y: 984
         width: 32
         height: 32
       alignment: 0
@@ -675,8 +675,8 @@ TextureImporter:
       name: high_contrast_27
       rect:
         serializedVersion: 2
-        x: 320
-        y: 920
+        x: 864
+        y: 984
         width: 32
         height: 32
       alignment: 0
@@ -696,8 +696,8 @@ TextureImporter:
       name: high_contrast_28
       rect:
         serializedVersion: 2
-        x: 416
-        y: 920
+        x: 896
+        y: 984
         width: 32
         height: 32
       alignment: 0
@@ -717,8 +717,8 @@ TextureImporter:
       name: high_contrast_29
       rect:
         serializedVersion: 2
-        x: 448
-        y: 920
+        x: 32
+        y: 952
         width: 32
         height: 32
       alignment: 0
@@ -738,8 +738,8 @@ TextureImporter:
       name: high_contrast_30
       rect:
         serializedVersion: 2
-        x: 480
-        y: 920
+        x: 64
+        y: 952
         width: 32
         height: 32
       alignment: 0
@@ -759,8 +759,8 @@ TextureImporter:
       name: high_contrast_31
       rect:
         serializedVersion: 2
-        x: 32
-        y: 888
+        x: 96
+        y: 952
         width: 32
         height: 32
       alignment: 0
@@ -780,8 +780,8 @@ TextureImporter:
       name: high_contrast_32
       rect:
         serializedVersion: 2
-        x: 64
-        y: 888
+        x: 160
+        y: 952
         width: 32
         height: 32
       alignment: 0
@@ -801,8 +801,8 @@ TextureImporter:
       name: high_contrast_33
       rect:
         serializedVersion: 2
-        x: 96
-        y: 888
+        x: 192
+        y: 952
         width: 32
         height: 32
       alignment: 0
@@ -822,8 +822,8 @@ TextureImporter:
       name: high_contrast_34
       rect:
         serializedVersion: 2
-        x: 160
-        y: 888
+        x: 224
+        y: 952
         width: 32
         height: 32
       alignment: 0
@@ -843,8 +843,8 @@ TextureImporter:
       name: high_contrast_35
       rect:
         serializedVersion: 2
-        x: 192
-        y: 888
+        x: 288
+        y: 952
         width: 32
         height: 32
       alignment: 0
@@ -864,8 +864,8 @@ TextureImporter:
       name: high_contrast_36
       rect:
         serializedVersion: 2
-        x: 224
-        y: 888
+        x: 320
+        y: 952
         width: 32
         height: 32
       alignment: 0
@@ -885,8 +885,8 @@ TextureImporter:
       name: high_contrast_37
       rect:
         serializedVersion: 2
-        x: 256
-        y: 888
+        x: 352
+        y: 952
         width: 32
         height: 32
       alignment: 0
@@ -906,8 +906,8 @@ TextureImporter:
       name: high_contrast_38
       rect:
         serializedVersion: 2
-        x: 320
-        y: 888
+        x: 384
+        y: 952
         width: 32
         height: 32
       alignment: 0
@@ -928,7 +928,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 416
-        y: 888
+        y: 952
         width: 32
         height: 32
       alignment: 0
@@ -949,7 +949,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 448
-        y: 888
+        y: 952
         width: 32
         height: 32
       alignment: 0
@@ -970,7 +970,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 480
-        y: 888
+        y: 952
         width: 32
         height: 32
       alignment: 0
@@ -990,8 +990,8 @@ TextureImporter:
       name: high_contrast_42
       rect:
         serializedVersion: 2
-        x: 32
-        y: 856
+        x: 704
+        y: 952
         width: 32
         height: 32
       alignment: 0
@@ -1011,8 +1011,8 @@ TextureImporter:
       name: high_contrast_43
       rect:
         serializedVersion: 2
-        x: 64
-        y: 856
+        x: 736
+        y: 952
         width: 32
         height: 32
       alignment: 0
@@ -1032,8 +1032,8 @@ TextureImporter:
       name: high_contrast_44
       rect:
         serializedVersion: 2
-        x: 96
-        y: 856
+        x: 768
+        y: 952
         width: 32
         height: 32
       alignment: 0
@@ -1053,8 +1053,8 @@ TextureImporter:
       name: high_contrast_45
       rect:
         serializedVersion: 2
-        x: 160
-        y: 856
+        x: 800
+        y: 952
         width: 32
         height: 32
       alignment: 0
@@ -1074,8 +1074,8 @@ TextureImporter:
       name: high_contrast_46
       rect:
         serializedVersion: 2
-        x: 192
-        y: 856
+        x: 832
+        y: 952
         width: 32
         height: 32
       alignment: 0
@@ -1095,8 +1095,8 @@ TextureImporter:
       name: high_contrast_47
       rect:
         serializedVersion: 2
-        x: 224
-        y: 856
+        x: 864
+        y: 952
         width: 32
         height: 32
       alignment: 0
@@ -1116,8 +1116,8 @@ TextureImporter:
       name: high_contrast_48
       rect:
         serializedVersion: 2
-        x: 256
-        y: 856
+        x: 896
+        y: 952
         width: 32
         height: 32
       alignment: 0
@@ -1137,8 +1137,8 @@ TextureImporter:
       name: high_contrast_49
       rect:
         serializedVersion: 2
-        x: 288
-        y: 856
+        x: 928
+        y: 952
         width: 32
         height: 32
       alignment: 0
@@ -1158,8 +1158,8 @@ TextureImporter:
       name: high_contrast_50
       rect:
         serializedVersion: 2
-        x: 320
-        y: 856
+        x: 960
+        y: 952
         width: 32
         height: 32
       alignment: 0
@@ -1179,8 +1179,8 @@ TextureImporter:
       name: high_contrast_51
       rect:
         serializedVersion: 2
-        x: 416
-        y: 856
+        x: 32
+        y: 920
         width: 32
         height: 32
       alignment: 0
@@ -1200,8 +1200,8 @@ TextureImporter:
       name: high_contrast_52
       rect:
         serializedVersion: 2
-        x: 448
-        y: 856
+        x: 96
+        y: 920
         width: 32
         height: 32
       alignment: 0
@@ -1221,8 +1221,8 @@ TextureImporter:
       name: high_contrast_53
       rect:
         serializedVersion: 2
-        x: 480
-        y: 856
+        x: 160
+        y: 920
         width: 32
         height: 32
       alignment: 0
@@ -1242,8 +1242,8 @@ TextureImporter:
       name: high_contrast_54
       rect:
         serializedVersion: 2
-        x: 160
-        y: 824
+        x: 192
+        y: 920
         width: 32
         height: 32
       alignment: 0
@@ -1263,8 +1263,8 @@ TextureImporter:
       name: high_contrast_55
       rect:
         serializedVersion: 2
-        x: 192
-        y: 824
+        x: 224
+        y: 920
         width: 32
         height: 32
       alignment: 0
@@ -1284,8 +1284,8 @@ TextureImporter:
       name: high_contrast_56
       rect:
         serializedVersion: 2
-        x: 32
-        y: 792
+        x: 256
+        y: 920
         width: 32
         height: 32
       alignment: 0
@@ -1305,8 +1305,8 @@ TextureImporter:
       name: high_contrast_57
       rect:
         serializedVersion: 2
-        x: 64
-        y: 792
+        x: 288
+        y: 920
         width: 32
         height: 32
       alignment: 0
@@ -1326,8 +1326,8 @@ TextureImporter:
       name: high_contrast_58
       rect:
         serializedVersion: 2
-        x: 96
-        y: 792
+        x: 352
+        y: 920
         width: 32
         height: 32
       alignment: 0
@@ -1347,8 +1347,8 @@ TextureImporter:
       name: high_contrast_59
       rect:
         serializedVersion: 2
-        x: 224
-        y: 792
+        x: 384
+        y: 920
         width: 32
         height: 32
       alignment: 0
@@ -1368,8 +1368,8 @@ TextureImporter:
       name: high_contrast_60
       rect:
         serializedVersion: 2
-        x: 256
-        y: 792
+        x: 416
+        y: 920
         width: 32
         height: 32
       alignment: 0
@@ -1389,8 +1389,8 @@ TextureImporter:
       name: high_contrast_61
       rect:
         serializedVersion: 2
-        x: 320
-        y: 792
+        x: 448
+        y: 920
         width: 32
         height: 32
       alignment: 0
@@ -1410,8 +1410,8 @@ TextureImporter:
       name: high_contrast_62
       rect:
         serializedVersion: 2
-        x: 32
-        y: 760
+        x: 480
+        y: 920
         width: 32
         height: 32
       alignment: 0
@@ -1431,8 +1431,8 @@ TextureImporter:
       name: high_contrast_63
       rect:
         serializedVersion: 2
-        x: 64
-        y: 760
+        x: 672
+        y: 920
         width: 32
         height: 32
       alignment: 0
@@ -1452,8 +1452,8 @@ TextureImporter:
       name: high_contrast_64
       rect:
         serializedVersion: 2
-        x: 96
-        y: 760
+        x: 704
+        y: 920
         width: 32
         height: 32
       alignment: 0
@@ -1473,8 +1473,8 @@ TextureImporter:
       name: high_contrast_65
       rect:
         serializedVersion: 2
-        x: 160
-        y: 760
+        x: 736
+        y: 920
         width: 32
         height: 32
       alignment: 0
@@ -1494,8 +1494,8 @@ TextureImporter:
       name: high_contrast_66
       rect:
         serializedVersion: 2
-        x: 192
-        y: 760
+        x: 928
+        y: 920
         width: 32
         height: 32
       alignment: 0
@@ -1515,8 +1515,8 @@ TextureImporter:
       name: high_contrast_67
       rect:
         serializedVersion: 2
-        x: 256
-        y: 760
+        x: 960
+        y: 920
         width: 32
         height: 32
       alignment: 0
@@ -1536,8 +1536,8 @@ TextureImporter:
       name: high_contrast_68
       rect:
         serializedVersion: 2
-        x: 320
-        y: 760
+        x: 992
+        y: 920
         width: 32
         height: 32
       alignment: 0
@@ -1557,8 +1557,8 @@ TextureImporter:
       name: high_contrast_69
       rect:
         serializedVersion: 2
-        x: 64
-        y: 728
+        x: 32
+        y: 888
         width: 32
         height: 32
       alignment: 0
@@ -1578,8 +1578,8 @@ TextureImporter:
       name: high_contrast_70
       rect:
         serializedVersion: 2
-        x: 96
-        y: 728
+        x: 64
+        y: 888
         width: 32
         height: 32
       alignment: 0
@@ -1599,8 +1599,8 @@ TextureImporter:
       name: high_contrast_71
       rect:
         serializedVersion: 2
-        x: 160
-        y: 728
+        x: 96
+        y: 888
         width: 32
         height: 32
       alignment: 0
@@ -1620,8 +1620,8 @@ TextureImporter:
       name: high_contrast_72
       rect:
         serializedVersion: 2
-        x: 192
-        y: 728
+        x: 160
+        y: 888
         width: 32
         height: 32
       alignment: 0
@@ -1641,8 +1641,8 @@ TextureImporter:
       name: high_contrast_73
       rect:
         serializedVersion: 2
-        x: 256
-        y: 728
+        x: 192
+        y: 888
         width: 32
         height: 32
       alignment: 0
@@ -1662,8 +1662,8 @@ TextureImporter:
       name: high_contrast_74
       rect:
         serializedVersion: 2
-        x: 288
-        y: 728
+        x: 224
+        y: 888
         width: 32
         height: 32
       alignment: 0
@@ -1683,8 +1683,8 @@ TextureImporter:
       name: high_contrast_75
       rect:
         serializedVersion: 2
-        x: 320
-        y: 728
+        x: 256
+        y: 888
         width: 32
         height: 32
       alignment: 0
@@ -1704,8 +1704,8 @@ TextureImporter:
       name: high_contrast_76
       rect:
         serializedVersion: 2
-        x: 32
-        y: 696
+        x: 288
+        y: 888
         width: 32
         height: 32
       alignment: 0
@@ -1725,8 +1725,8 @@ TextureImporter:
       name: high_contrast_77
       rect:
         serializedVersion: 2
-        x: 64
-        y: 696
+        x: 352
+        y: 888
         width: 32
         height: 32
       alignment: 0
@@ -1746,8 +1746,8 @@ TextureImporter:
       name: high_contrast_78
       rect:
         serializedVersion: 2
-        x: 96
-        y: 696
+        x: 384
+        y: 888
         width: 32
         height: 32
       alignment: 0
@@ -1767,8 +1767,8 @@ TextureImporter:
       name: high_contrast_79
       rect:
         serializedVersion: 2
-        x: 288
-        y: 696
+        x: 416
+        y: 888
         width: 32
         height: 32
       alignment: 0
@@ -1788,8 +1788,8 @@ TextureImporter:
       name: high_contrast_80
       rect:
         serializedVersion: 2
-        x: 320
-        y: 696
+        x: 448
+        y: 888
         width: 32
         height: 32
       alignment: 0
@@ -1809,8 +1809,8 @@ TextureImporter:
       name: high_contrast_81
       rect:
         serializedVersion: 2
-        x: 32
-        y: 664
+        x: 480
+        y: 888
         width: 32
         height: 32
       alignment: 0
@@ -1830,8 +1830,8 @@ TextureImporter:
       name: high_contrast_82
       rect:
         serializedVersion: 2
-        x: 64
-        y: 664
+        x: 640
+        y: 888
         width: 32
         height: 32
       alignment: 0
@@ -1851,8 +1851,8 @@ TextureImporter:
       name: high_contrast_83
       rect:
         serializedVersion: 2
-        x: 96
-        y: 664
+        x: 672
+        y: 888
         width: 32
         height: 32
       alignment: 0
@@ -1872,8 +1872,8 @@ TextureImporter:
       name: high_contrast_84
       rect:
         serializedVersion: 2
-        x: 160
-        y: 664
+        x: 704
+        y: 888
         width: 32
         height: 32
       alignment: 0
@@ -1893,8 +1893,8 @@ TextureImporter:
       name: high_contrast_85
       rect:
         serializedVersion: 2
-        x: 192
-        y: 664
+        x: 736
+        y: 888
         width: 32
         height: 32
       alignment: 0
@@ -1914,8 +1914,8 @@ TextureImporter:
       name: high_contrast_86
       rect:
         serializedVersion: 2
-        x: 224
-        y: 664
+        x: 928
+        y: 888
         width: 32
         height: 32
       alignment: 0
@@ -1935,8 +1935,8 @@ TextureImporter:
       name: high_contrast_87
       rect:
         serializedVersion: 2
-        x: 288
-        y: 664
+        x: 960
+        y: 888
         width: 32
         height: 32
       alignment: 0
@@ -1956,8 +1956,8 @@ TextureImporter:
       name: high_contrast_88
       rect:
         serializedVersion: 2
-        x: 320
-        y: 664
+        x: 992
+        y: 888
         width: 32
         height: 32
       alignment: 0
@@ -1977,8 +1977,8 @@ TextureImporter:
       name: high_contrast_89
       rect:
         serializedVersion: 2
-        x: 32
-        y: 632
+        x: 1024
+        y: 888
         width: 32
         height: 32
       alignment: 0
@@ -1998,8 +1998,8 @@ TextureImporter:
       name: high_contrast_90
       rect:
         serializedVersion: 2
-        x: 96
-        y: 632
+        x: 32
+        y: 856
         width: 32
         height: 32
       alignment: 0
@@ -2019,8 +2019,8 @@ TextureImporter:
       name: high_contrast_91
       rect:
         serializedVersion: 2
-        x: 160
-        y: 632
+        x: 64
+        y: 856
         width: 32
         height: 32
       alignment: 0
@@ -2040,8 +2040,8 @@ TextureImporter:
       name: high_contrast_92
       rect:
         serializedVersion: 2
-        x: 192
-        y: 632
+        x: 96
+        y: 856
         width: 32
         height: 32
       alignment: 0
@@ -2061,8 +2061,8 @@ TextureImporter:
       name: high_contrast_93
       rect:
         serializedVersion: 2
-        x: 224
-        y: 632
+        x: 160
+        y: 856
         width: 32
         height: 32
       alignment: 0
@@ -2082,8 +2082,8 @@ TextureImporter:
       name: high_contrast_94
       rect:
         serializedVersion: 2
-        x: 256
-        y: 632
+        x: 192
+        y: 856
         width: 32
         height: 32
       alignment: 0
@@ -2103,8 +2103,8 @@ TextureImporter:
       name: high_contrast_95
       rect:
         serializedVersion: 2
-        x: 288
-        y: 632
+        x: 224
+        y: 856
         width: 32
         height: 32
       alignment: 0
@@ -2124,8 +2124,8 @@ TextureImporter:
       name: high_contrast_96
       rect:
         serializedVersion: 2
-        x: 320
-        y: 632
+        x: 352
+        y: 856
         width: 32
         height: 32
       alignment: 0
@@ -2145,8 +2145,8 @@ TextureImporter:
       name: high_contrast_97
       rect:
         serializedVersion: 2
-        x: 32
-        y: 600
+        x: 384
+        y: 856
         width: 32
         height: 32
       alignment: 0
@@ -2166,8 +2166,8 @@ TextureImporter:
       name: high_contrast_98
       rect:
         serializedVersion: 2
-        x: 64
-        y: 600
+        x: 416
+        y: 856
         width: 32
         height: 32
       alignment: 0
@@ -2187,8 +2187,8 @@ TextureImporter:
       name: high_contrast_99
       rect:
         serializedVersion: 2
-        x: 96
-        y: 600
+        x: 448
+        y: 856
         width: 32
         height: 32
       alignment: 0
@@ -2208,8 +2208,8 @@ TextureImporter:
       name: high_contrast_100
       rect:
         serializedVersion: 2
-        x: 160
-        y: 600
+        x: 480
+        y: 856
         width: 32
         height: 32
       alignment: 0
@@ -2229,8 +2229,8 @@ TextureImporter:
       name: high_contrast_101
       rect:
         serializedVersion: 2
-        x: 192
-        y: 600
+        x: 576
+        y: 856
         width: 32
         height: 32
       alignment: 0
@@ -2250,8 +2250,8 @@ TextureImporter:
       name: high_contrast_102
       rect:
         serializedVersion: 2
-        x: 224
-        y: 600
+        x: 608
+        y: 856
         width: 32
         height: 32
       alignment: 0
@@ -2271,8 +2271,8 @@ TextureImporter:
       name: high_contrast_103
       rect:
         serializedVersion: 2
-        x: 256
-        y: 600
+        x: 640
+        y: 856
         width: 32
         height: 32
       alignment: 0
@@ -2292,8 +2292,8 @@ TextureImporter:
       name: high_contrast_104
       rect:
         serializedVersion: 2
-        x: 320
-        y: 600
+        x: 672
+        y: 856
         width: 32
         height: 32
       alignment: 0
@@ -2313,8 +2313,8 @@ TextureImporter:
       name: high_contrast_105
       rect:
         serializedVersion: 2
-        x: 32
-        y: 568
+        x: 704
+        y: 856
         width: 32
         height: 32
       alignment: 0
@@ -2334,8 +2334,8 @@ TextureImporter:
       name: high_contrast_106
       rect:
         serializedVersion: 2
-        x: 64
-        y: 568
+        x: 736
+        y: 856
         width: 32
         height: 32
       alignment: 0
@@ -2355,8 +2355,8 @@ TextureImporter:
       name: high_contrast_107
       rect:
         serializedVersion: 2
-        x: 96
-        y: 568
+        x: 768
+        y: 856
         width: 32
         height: 32
       alignment: 0
@@ -2376,8 +2376,8 @@ TextureImporter:
       name: high_contrast_108
       rect:
         serializedVersion: 2
-        x: 160
-        y: 568
+        x: 800
+        y: 856
         width: 32
         height: 32
       alignment: 0
@@ -2397,8 +2397,8 @@ TextureImporter:
       name: high_contrast_109
       rect:
         serializedVersion: 2
-        x: 192
-        y: 568
+        x: 864
+        y: 856
         width: 32
         height: 32
       alignment: 0
@@ -2418,8 +2418,8 @@ TextureImporter:
       name: high_contrast_110
       rect:
         serializedVersion: 2
-        x: 224
-        y: 568
+        x: 896
+        y: 856
         width: 32
         height: 32
       alignment: 0
@@ -2439,8 +2439,8 @@ TextureImporter:
       name: high_contrast_111
       rect:
         serializedVersion: 2
-        x: 256
-        y: 568
+        x: 928
+        y: 856
         width: 32
         height: 32
       alignment: 0
@@ -2460,8 +2460,8 @@ TextureImporter:
       name: high_contrast_112
       rect:
         serializedVersion: 2
-        x: 288
-        y: 568
+        x: 960
+        y: 856
         width: 32
         height: 32
       alignment: 0
@@ -2481,8 +2481,8 @@ TextureImporter:
       name: high_contrast_113
       rect:
         serializedVersion: 2
-        x: 320
-        y: 568
+        x: 992
+        y: 856
         width: 32
         height: 32
       alignment: 0
@@ -2502,8 +2502,8 @@ TextureImporter:
       name: high_contrast_114
       rect:
         serializedVersion: 2
-        x: 160
-        y: 536
+        x: 1024
+        y: 856
         width: 32
         height: 32
       alignment: 0
@@ -2523,8 +2523,8 @@ TextureImporter:
       name: high_contrast_115
       rect:
         serializedVersion: 2
-        x: 192
-        y: 536
+        x: 1056
+        y: 856
         width: 32
         height: 32
       alignment: 0
@@ -2544,8 +2544,8 @@ TextureImporter:
       name: high_contrast_116
       rect:
         serializedVersion: 2
-        x: 224
-        y: 536
+        x: 1088
+        y: 856
         width: 32
         height: 32
       alignment: 0
@@ -2565,8 +2565,8 @@ TextureImporter:
       name: high_contrast_117
       rect:
         serializedVersion: 2
-        x: 256
-        y: 536
+        x: 160
+        y: 824
         width: 32
         height: 32
       alignment: 0
@@ -2586,8 +2586,8 @@ TextureImporter:
       name: high_contrast_118
       rect:
         serializedVersion: 2
-        x: 320
-        y: 536
+        x: 192
+        y: 824
         width: 32
         height: 32
       alignment: 0
@@ -2607,8 +2607,8 @@ TextureImporter:
       name: high_contrast_119
       rect:
         serializedVersion: 2
-        x: 32
-        y: 504
+        x: 352
+        y: 824
         width: 32
         height: 32
       alignment: 0
@@ -2628,8 +2628,8 @@ TextureImporter:
       name: high_contrast_120
       rect:
         serializedVersion: 2
-        x: 64
-        y: 504
+        x: 384
+        y: 824
         width: 32
         height: 32
       alignment: 0
@@ -2649,8 +2649,8 @@ TextureImporter:
       name: high_contrast_121
       rect:
         serializedVersion: 2
-        x: 96
-        y: 504
+        x: 416
+        y: 824
         width: 32
         height: 32
       alignment: 0
@@ -2670,8 +2670,8 @@ TextureImporter:
       name: high_contrast_122
       rect:
         serializedVersion: 2
-        x: 160
-        y: 504
+        x: 448
+        y: 824
         width: 32
         height: 32
       alignment: 0
@@ -2691,8 +2691,8 @@ TextureImporter:
       name: high_contrast_123
       rect:
         serializedVersion: 2
-        x: 192
-        y: 504
+        x: 480
+        y: 824
         width: 32
         height: 32
       alignment: 0
@@ -2712,8 +2712,8 @@ TextureImporter:
       name: high_contrast_124
       rect:
         serializedVersion: 2
-        x: 256
-        y: 504
+        x: 544
+        y: 824
         width: 32
         height: 32
       alignment: 0
@@ -2733,8 +2733,8 @@ TextureImporter:
       name: high_contrast_125
       rect:
         serializedVersion: 2
-        x: 320
-        y: 504
+        x: 576
+        y: 824
         width: 32
         height: 32
       alignment: 0
@@ -2754,8 +2754,8 @@ TextureImporter:
       name: high_contrast_126
       rect:
         serializedVersion: 2
-        x: 32
-        y: 472
+        x: 608
+        y: 824
         width: 32
         height: 32
       alignment: 0
@@ -2775,8 +2775,8 @@ TextureImporter:
       name: high_contrast_127
       rect:
         serializedVersion: 2
-        x: 64
-        y: 472
+        x: 640
+        y: 824
         width: 32
         height: 32
       alignment: 0
@@ -2796,8 +2796,8 @@ TextureImporter:
       name: high_contrast_128
       rect:
         serializedVersion: 2
-        x: 96
-        y: 472
+        x: 672
+        y: 824
         width: 32
         height: 32
       alignment: 0
@@ -2817,8 +2817,8 @@ TextureImporter:
       name: high_contrast_129
       rect:
         serializedVersion: 2
-        x: 160
-        y: 472
+        x: 704
+        y: 824
         width: 32
         height: 32
       alignment: 0
@@ -2838,8 +2838,8 @@ TextureImporter:
       name: high_contrast_130
       rect:
         serializedVersion: 2
-        x: 192
-        y: 472
+        x: 736
+        y: 824
         width: 32
         height: 32
       alignment: 0
@@ -2859,8 +2859,8 @@ TextureImporter:
       name: high_contrast_131
       rect:
         serializedVersion: 2
-        x: 256
-        y: 472
+        x: 768
+        y: 824
         width: 32
         height: 32
       alignment: 0
@@ -2880,8 +2880,8 @@ TextureImporter:
       name: high_contrast_132
       rect:
         serializedVersion: 2
-        x: 288
-        y: 472
+        x: 800
+        y: 824
         width: 32
         height: 32
       alignment: 0
@@ -2901,8 +2901,8 @@ TextureImporter:
       name: high_contrast_133
       rect:
         serializedVersion: 2
-        x: 320
-        y: 472
+        x: 864
+        y: 824
         width: 32
         height: 32
       alignment: 0
@@ -2922,8 +2922,8 @@ TextureImporter:
       name: high_contrast_134
       rect:
         serializedVersion: 2
-        x: 64
-        y: 440
+        x: 896
+        y: 824
         width: 32
         height: 32
       alignment: 0
@@ -2943,8 +2943,8 @@ TextureImporter:
       name: high_contrast_135
       rect:
         serializedVersion: 2
-        x: 96
-        y: 440
+        x: 928
+        y: 824
         width: 32
         height: 32
       alignment: 0
@@ -2964,8 +2964,8 @@ TextureImporter:
       name: high_contrast_136
       rect:
         serializedVersion: 2
-        x: 64
-        y: 408
+        x: 960
+        y: 824
         width: 32
         height: 32
       alignment: 0
@@ -2977,6 +2977,3660 @@ TextureImporter:
       bones: []
       spriteID: bc9c2700d8ba6504dac101dd8a117eda
       internalID: 782933155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_137
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445772c7b0fd15f4a837439607eae5a4
+      internalID: 85301205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_138
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c961093dd5f9f458cc25ae2c96e802
+      internalID: -1591389176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_139
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30d8e9292f308d4aaaa50dca675aab9
+      internalID: -1249791496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_140
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b312476d9dab19840857a95ef6da7888
+      internalID: 618592889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_141
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dced132b5a887fc45bb1c344f5bb8775
+      internalID: -504787318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_142
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d48319a4ed019e4aa7d5c7e84467c18
+      internalID: -121023093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_143
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288eac737998c974b8ab8216fb0215c2
+      internalID: 874273157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_144
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97d7623736332a4e9ddc999296e1c70
+      internalID: -553537761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_145
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6096d068f9907b545a43dcee807b2cbe
+      internalID: 1511967568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_146
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda8b0f9bff63564d95d8f5cb6dc4e29
+      internalID: 1205231637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_147
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7454c4dafde3fe648b7c785bcde1a1a7
+      internalID: 553949696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_148
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd248e1ad600b942b97458f9035111f
+      internalID: 2084642544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_149
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba2cd026b821f244bb7a67c248316c0
+      internalID: -1741975944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_150
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f7bd97684c4da4595c91cf79958847
+      internalID: 1224405502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_151
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73782e217db11fc4a8a2df5b87292ad6
+      internalID: -557862314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_152
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b86e5a2e2f50234a9ea9148bc081d00
+      internalID: -1550711543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_153
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30760a54ac31e9f4d87211dc05e24a39
+      internalID: -514324252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_154
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cd9db951717404fbccc9f8e78fd473
+      internalID: 169340074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_155
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dcc964650b428419a4cbd2fc9cedb6
+      internalID: -987638762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_156
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2b7675640f648428f1f6a122ca4857
+      internalID: -1607854759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_157
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e73108c4838824c8ece3a7d87b77c8
+      internalID: -253631445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_158
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd742bbfd813174e974fe8c41d2a96e
+      internalID: -1644241281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_159
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c215098c29c16224ea20e54cad1ad406
+      internalID: -1002147902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_160
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6ea2fc068a6de47947375842be4e17
+      internalID: -2124845707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_161
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08495cb971bacd543aa2f5c3d759893c
+      internalID: 1722334869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_162
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ff43bfc1ee85f45a4be74ebe9df203
+      internalID: -1248364502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_163
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620cdca4e781a984ab4e66c409dd3911
+      internalID: 616586866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_164
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a139c232fe0b27f4b97cf2fbbe434028
+      internalID: 453539953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_165
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d63be35fea1f1d4bbb606bd13b9dab6
+      internalID: -454569063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_166
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9132700604348f47a8c103a9f5556bc
+      internalID: 1482589566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_167
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac94f8d95b47754abc0029e7e62edda
+      internalID: -1457764994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_168
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd57c4d2ce8a1e45b9a87724c196258
+      internalID: -335214389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_169
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223bf1dbec378ae47a065247de76d679
+      internalID: 1925722378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_170
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77af5c8e37d51a5499ac24f90b163df0
+      internalID: -384110787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_171
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b9633e9c66e264b99ac5d86abe681d
+      internalID: -1535942879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_172
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acf9049c53a5514d96d2726ad9f3256
+      internalID: 983084401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_173
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e417f2b85de04dc4e860ba95cc9402e6
+      internalID: -602994823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_174
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c30ffc64c8c5994fa057efd25cd2806
+      internalID: -1777628096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172fcae207f32424b8181108e6985e6d
+      internalID: -258925804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bea950f65b2c04f8a1afb6462d3f29
+      internalID: 772067283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d3fa42ec6ea4f44a25c6a4e23cb049
+      internalID: 417736804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_178
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ea9e251df47b84c8c41f5d98a99815
+      internalID: -1231428068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_179
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb0fbdbab88e2f47a97e35e93c26c33
+      internalID: -447099004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_180
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8460290d0e63849a4bd2b4254a5df6
+      internalID: 1468681987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_181
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dfc4c3c0c95774cacb7c23a7884bb8
+      internalID: -222291136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_182
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878b754c9a574734aa95d8e87536c250
+      internalID: -1083788740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_183
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59aca9f339eba8e4386a5deec695a2c0
+      internalID: 2023885225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_184
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c4ca6c3ca828749b60ddea5516f666
+      internalID: -1010446145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_185
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92aafc10b2b42a547b3b0181bb94e968
+      internalID: 1554026726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_186
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acca8cac55d21de499d51ab360d78c03
+      internalID: 1316791948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_187
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ee247d5430d5a41b3306b627315298
+      internalID: -471786277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_188
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1f332cf3518534d9400bfe26f3215a
+      internalID: -700608520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_189
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026ffe3e5a69512428607e915dd14d65
+      internalID: -672213966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_190
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d599d3d1b32a87a47bda456adc20bc6e
+      internalID: 95572356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_191
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95179d70f5fbc3a4ea8620e2e0585b56
+      internalID: -1502697214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_192
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642705475071dc04680fa20bd50b5aa2
+      internalID: -1249263192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_193
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d13f306067c39e42aa4f80f7c78981c
+      internalID: -2085349739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_194
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d1613297c639a4bbcb1d79e40bfa97
+      internalID: -1298581565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_195
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5be9ab7ef3f7349bfbb5feb457f85b
+      internalID: 690029191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_196
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cc2ea06ccfac143b88d028e85e8d13
+      internalID: -12904115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_197
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6465f0b17ced346bc109c3116849a9
+      internalID: -1619970897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_198
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd419223a94acbf4f9a5a042d8cdf741
+      internalID: -849653216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_199
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2399a82b5760b4c42bdb2b73f26ff87e
+      internalID: 369476450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_200
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879627b7a71b711478c3061c269866de
+      internalID: -629913669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_201
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afef26a141886e64baffdbae9f67c9a6
+      internalID: 364705912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_202
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1c085c98234174e9f1828c2ee9bbb5
+      internalID: 1569661065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_203
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc603537b9522a4987598d52f9d8469
+      internalID: 1379442694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_204
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca54c3c305a0434c87ad0aa62ccfe13
+      internalID: -1318110765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_205
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8377bc68ad68a42acc46d18a2e453c
+      internalID: 2135043042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_206
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105f82a0b1892bd4bbea8193bf926b4e
+      internalID: 1516627098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_207
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04fb41cb13729a4e913f8008aa56daf
+      internalID: -1974015226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_208
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a1bdf8feed7cd4bbda8e3232f703ef
+      internalID: 1978491205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_209
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0832e0fd966b449a372e9a918825c0
+      internalID: 2035931223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_210
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90abeb06df56b234abd6bf3b6f285e5c
+      internalID: 1190649436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_211
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e033b33b88e04c4892ba4d41d44b2c0
+      internalID: -99431948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_212
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e082b02e5c6aa47a1587db544bb759
+      internalID: -39495000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_213
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45df6d17246107b489da588438d11501
+      internalID: 546014045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_214
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cd0e8a4c51b594ea6f0012f3ea08f1
+      internalID: 1455902404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_215
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155bf8491dd04784ba3365c7239ed68a
+      internalID: 1389073081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_216
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c886ed08ab6136f4a95ea91b36047150
+      internalID: 1508757255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_217
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42143492ba5fa9346916a3e523050154
+      internalID: -1310610285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_218
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72079065648fb9a4f84c9590cb9119a7
+      internalID: -1607759454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_219
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f2bac61ce18cc40b6491862da15382
+      internalID: -1540221537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_220
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488331aade20bb749afb02bf6680c170
+      internalID: 931474906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_221
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ffd7c62d543654cbaafedbde56b3e5
+      internalID: -1939906792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_222
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce437641f51dcb347a815443db7da6b5
+      internalID: -904773795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_223
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361985ace8cb40b4fb65c58292c8648f
+      internalID: 1413200875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_224
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49d4494cc897724b89042b222f641af
+      internalID: 1270904650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_225
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba00fecd80fb4d4cb3634dd35511976
+      internalID: -196457658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_226
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5dde796af72644c98f570e89cf7298
+      internalID: 887422423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_227
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4de6f9cb1be7f4cb12eb95273ac4d4
+      internalID: -783437037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_228
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c21143d64458c43994bbafe935cc0d
+      internalID: 1047447095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_229
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cafce21afb32d44b06b6d19799bf2a
+      internalID: -202480494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_230
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ac77d028102ff4c8d58803b5c08a64
+      internalID: 1447171326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_231
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d75c9eed50840240a734137ab5c8e90
+      internalID: -241180868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_232
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2378247bcf354bb448b0e02607b32ca2
+      internalID: -1133864894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_233
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b39fac967bef5148aa1f48b01a0870b
+      internalID: 988193782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_234
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d791a3284a3383d499fae36dfc39862f
+      internalID: 1275563919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_235
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282b29ab14d97754dbe5ef5cde35f810
+      internalID: -1047557033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_236
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186e48741e1d33f45b2013843a5869f2
+      internalID: -1814473066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_237
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2972106de7d8f41b8aea1ea0b2d0f2
+      internalID: 1459174203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_238
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca98506faae33ff4697ac9017a29d554
+      internalID: 48818255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_239
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4949e37185a4ac4880b66b14f5a3889
+      internalID: -2012022092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_240
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f2b5d6d42f08545b544b6f268c6cda
+      internalID: -1706236625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_241
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e5118379ddfec4a82e4c33d217c655
+      internalID: -168149183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_242
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ac8d3141c5e0a4d8fdd13579fcedca
+      internalID: 1464215690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_243
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c992cec1d6b994984544c3038e2d7f
+      internalID: -1268662737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_244
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35a455531966bf42ae08270d7c8519d
+      internalID: -613164485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_245
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17303ed13e34f484ca839c60f6bf424e
+      internalID: 2008448141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_246
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a04e182f3d74349b080d5d53db5ae8
+      internalID: -848701592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_247
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f67ad50bd575e34f9fbb11a1dcd4e46
+      internalID: -1006448415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_248
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8bae8f9a8ab1f4d99694aecdd9ad79
+      internalID: 335125709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_249
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29be1bbee84a0a146992d986bf9155e3
+      internalID: -1397892127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_250
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5095798e61613c7448f8544b0805cef9
+      internalID: -1678241245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_251
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02275d66c38e9474d98ffaeb5a148972
+      internalID: 1965866648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_252
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed81e52e4060ac745a0e608a4f7a9928
+      internalID: -98977657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_253
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befb870fc58a9e243ae2728e86bc8ee4
+      internalID: 253947980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_254
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd83fc79efab7af4793a96281591804a
+      internalID: -1309473385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_255
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6119e6ecc892f3048bc8e8854382d369
+      internalID: -460912226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_256
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e5d0516d37217419b3876378234581
+      internalID: -1628559612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_257
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55426a3c72fc36c41ab298382535503b
+      internalID: 342854785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_258
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362fa234130b90340b9d033ed804dbb5
+      internalID: -850983749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_259
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5db8cafe49fd3b4c850a66b15220f0c
+      internalID: -1854509280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_260
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b664fa22491b8a4d8296c0a451a1b2a
+      internalID: -1570129785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_261
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc50770e25ed8b54590bd5e5c4a774a7
+      internalID: -1496995036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_262
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fe52520e3881049be348442e741ffc
+      internalID: -330005266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_263
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d95c2160a4ed1c4283b57506322f796
+      internalID: -680415832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_264
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511d82e84f8da5844aa9dc5592f1d3f9
+      internalID: 1411751400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_265
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ceee940d9032fb408efa3777c09e034
+      internalID: 738499606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_266
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6db8ec07898c848a6568badd78a662
+      internalID: -1258782858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_267
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef43e8977efae5f41990075539b9e58e
+      internalID: -1861021953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_268
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531e03905203b244fb3621e456c57dad
+      internalID: -239406438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_269
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729441a7d732a4048aab27c9633af9d3
+      internalID: -1769309544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_270
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7024262c8567612409a2f8cd5a5fbb7d
+      internalID: -256681106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_271
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904edef3d12b89a4296c26c1abb718d3
+      internalID: 648460328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_272
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4aea49d154b60a4abc39741703f6dc6
+      internalID: -926061059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_273
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bf4616eef6b2d4789742f97f40fffb
+      internalID: -1168763975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_274
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f6ff43752cf354ebf0e2ecc3d87360
+      internalID: 1847586596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_275
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3484ea698304f7e42a8197a483b40faa
+      internalID: 210102277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_276
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f5dd414a9bb0044a421a98da5d7f08
+      internalID: 1880819526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_277
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ca2589f3f2b5d478c8a6bf19f8f1a3
+      internalID: -1051666940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_278
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef01c7fe3c406164f848280cd397640f
+      internalID: -1054960085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_279
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf222b62778ec64f83b3c191afd2901
+      internalID: 1559348332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_280
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2888bef3b8b8fc4a8e4438e1ef370ff
+      internalID: -2031181127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_281
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dc080931ced4e4b83fbcedf8d30004
+      internalID: -415629619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_282
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5e07a944ae51c49a0b1f93c1ca051f
+      internalID: -194084168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_283
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353ccd6b2796e90448f50b68a4d97fcf
+      internalID: -1674296693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_284
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055bf9af73572a140ae3ae77de3e051e
+      internalID: -1077168526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_285
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8504f2615d3054f950e969eb207222
+      internalID: -2116837244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_286
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7502d467d20307940ade10738a41e412
+      internalID: 1230343550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_287
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbbfab9b1b508f44ad51396ccc56b92
+      internalID: 1098152785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_288
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5276f12c0fe0864bbfd67c4f67849ff
+      internalID: 922548854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_289
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04eddff2153745b4681a81ff9491cb0e
+      internalID: -1502157354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_290
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0398b7f09340e439ab04f3afbcee2a
+      internalID: 434017840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_291
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca4757bea24fbc4b9f0fa1878b3c45e
+      internalID: -1624541589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_292
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774658a51bf03374b82b54402af4b19a
+      internalID: 1630456327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_293
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55cfc3ff7fbd9d4295930625c929d70
+      internalID: 379064356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_294
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3a31c7ab67a84459cc4123c343c20f
+      internalID: 2118802955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_295
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69575c93af8990f498e4289569322ccc
+      internalID: -2063908113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_296
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e57dee1f15b4244c89d72f1033dc64e
+      internalID: 894313465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_297
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2b2fc7239b989478db0dada8d4e66e
+      internalID: 1715052073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_298
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0da33e3e320e92408e66123feec14f6
+      internalID: 184467367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_299
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da43b190299933243a009abb3c0bd0f1
+      internalID: 1465095631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_300
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31212d213d97cd741b215791f7ba6c35
+      internalID: -1309029794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_301
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9f8eb06dcff284e9a9e410272f1e6e
+      internalID: -2043097976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_302
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a283a03861f786946bb0c04393c007d5
+      internalID: -217022253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_303
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90d10cc7269885498da18295df23418
+      internalID: -1624622245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_304
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1277266fbc4dc74387b529c2db253bc
+      internalID: 2119523830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_305
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f340d526207204b8a3a8bdb8fd5455
+      internalID: 1825583066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_306
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2e0e9b5d66cdf499112eb4ee5fcb13
+      internalID: 403620836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_307
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475724f5dfab1af46855bc489f9b38e2
+      internalID: -1323125474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_308
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6851c4412e60bb14181f72a300cb6aa2
+      internalID: 780005401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_309
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f847f62ef9f8ca48baeb9a0e0e11d84
+      internalID: -311017108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high_contrast_310
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b864056d2d04b8c4f9b1d74f84bcae48
+      internalID: -649648090
       vertices: []
       indices: 
       edges: []
@@ -2993,142 +6647,316 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       high_contrast_81: -1933643575
-      high_contrast_45: -353204281
-      high_contrast_56: 295492350
-      high_contrast_5: -1756534406
+      high_contrast_270: -256681106
       high_contrast_24: -1453187913
-      high_contrast_59: 1956046653
-      high_contrast_86: 1382654698
+      high_contrast_154: 169340074
+      high_contrast_156: -1607854759
+      high_contrast_250: -1678241245
+      high_contrast_183: 2023885225
+      high_contrast_301: -2043097976
       high_contrast_72: -923353625
       high_contrast_83: 2097004138
       high_contrast_75: -2067935464
-      high_contrast_76: -69256921
+      high_contrast_197: -1619970897
       high_contrast_132: -1760924867
       high_contrast_20: -591594889
       high_contrast_30: -1076377604
       high_contrast_128: 1500621818
-      high_contrast_10: -1543288430
-      high_contrast_129: -2029967570
-      high_contrast_42: -913243351
+      high_contrast_168: -335214389
+      high_contrast_243: -1268662737
+      high_contrast_236: -1814473066
+      high_contrast_279: 1559348332
+      high_contrast_151: -557862314
+      high_contrast_292: 1630456327
+      high_contrast_200: -629913669
+      high_contrast_230: 1447171326
+      high_contrast_150: 1224405502
       high_contrast_21: 1449256164
       high_contrast_11: 1437887633
       high_contrast_100: 1584434074
-      high_contrast_26: -416741053
-      high_contrast_7: -1038435606
-      high_contrast_19: -146296701
+      high_contrast_245: 2008448141
+      high_contrast_152: -1550711543
+      high_contrast_145: 1511967568
+      high_contrast_193: -2085349739
+      high_contrast_228: 1047447095
       high_contrast_123: -1334528735
-      high_contrast_126: 907606869
+      high_contrast_307: -1323125474
+      high_contrast_169: 1925722378
       high_contrast_87: -672128180
       high_contrast_17: -1731422315
       high_contrast_60: 650702993
-      high_contrast_23: 2013608678
-      high_contrast_74: 1663115554
-      high_contrast_121: -1953632217
+      high_contrast_214: 1455902404
+      high_contrast_174: -1777628096
+      high_contrast_310: -649648090
       high_contrast_33: 1870056671
       high_contrast_35: -273672431
-      high_contrast_44: -1602929987
+      high_contrast_142: -121023093
+      high_contrast_136: 782933155
       high_contrast_3: 1229511730
+      high_contrast_173: -602994823
       high_contrast_4: 1495934419
       high_contrast_54: 346117084
-      high_contrast_106: -854813704
-      high_contrast_136: 782933155
-      high_contrast_93: 1759001131
       high_contrast_135: -1117516923
+      high_contrast_165: -454569063
+      high_contrast_300: -1309029794
+      high_contrast_144: -553537761
+      high_contrast_160: -2124845707
+      high_contrast_143: 874273157
       high_contrast_18: 952068616
-      high_contrast_51: -769471743
+      high_contrast_176: 772067283
+      high_contrast_194: -1298581565
+      high_contrast_172: 983084401
       high_contrast_1: 903790262
       high_contrast_71: 2117803430
       high_contrast_50: -1687873921
-      high_contrast_68: 1196357897
+      high_contrast_180: 1468681987
       high_contrast_32: 720426749
       high_contrast_52: 273049563
+      high_contrast_252: -98977657
+      high_contrast_158: -1644241281
       high_contrast_101: -1745200342
-      high_contrast_78: -1481199288
-      high_contrast_120: -1652232309
+      high_contrast_304: 2119523830
+      high_contrast_276: 1880819526
+      high_contrast_247: -1006448415
+      high_contrast_208: 1978491205
       high_contrast_13: -1349073954
-      high_contrast_25: -1651078388
-      high_contrast_79: 2071319797
+      high_contrast_186: 1316791948
+      high_contrast_309: -311017108
+      high_contrast_182: -1083788740
+      high_contrast_281: -415629619
+      high_contrast_258: -850983749
+      high_contrast_298: 184467367
       high_contrast_57: -1493617140
-      high_contrast_113: 472681767
+      high_contrast_282: -194084168
+      high_contrast_287: 1098152785
       high_contrast_124: 1165703135
       high_contrast_91: 1903477088
       high_contrast_125: 1069583983
-      high_contrast_43: 2050484705
-      high_contrast_67: 349380377
+      high_contrast_201: 364705912
       high_contrast_97: 492773454
-      high_contrast_65: 1868942164
       high_contrast_108: -457569906
+      high_contrast_122: 1317214855
+      high_contrast_284: -1077168526
       high_contrast_118: 1028674124
-      high_contrast_111: -361964040
+      high_contrast_305: 1825583066
       high_contrast_29: -995892871
       high_contrast_12: 1384866448
       high_contrast_64: 2036349696
-      high_contrast_115: -1958307677
+      high_contrast_283: -1674296693
       high_contrast_40: -681283954
+      high_contrast_218: -1607759454
+      high_contrast_269: -1769309544
+      high_contrast_16: -1983233136
+      high_contrast_22: -875381314
+      high_contrast_275: 210102277
+      high_contrast_147: 553949696
+      high_contrast_212: -39495000
+      high_contrast_49: 1915913774
+      high_contrast_127: -557041883
+      high_contrast_215: 1389073081
+      high_contrast_253: 253947980
+      high_contrast_137: 85301205
+      high_contrast_39: -639142211
+      high_contrast_66: -1578088314
+      high_contrast_89: -65712862
+      high_contrast_62: 1883949196
+      high_contrast_191: -1502697214
+      high_contrast_73: 1261878684
+      high_contrast_77: -1428904568
+      high_contrast_295: -2063908113
+      high_contrast_153: -514324252
+      high_contrast_163: 616586866
+      high_contrast_80: -744208866
+      high_contrast_8: 473414276
+      high_contrast_227: -783437037
+      high_contrast_47: 2090694424
+      high_contrast_141: -504787318
+      high_contrast_177: 417736804
+      high_contrast_204: -1318110765
+      high_contrast_232: -1133864894
+      high_contrast_220: 931474906
+      high_contrast_161: 1722334869
+      high_contrast_211: -99431948
+      high_contrast_38: 1366761307
+      high_contrast_9: -922681835
+      high_contrast_36: -1981099168
+      high_contrast_181: -222291136
+      high_contrast_114: -1922800143
+      high_contrast_69: -1742373430
+      high_contrast_226: 887422423
+      high_contrast_239: -2012022092
+      high_contrast_82: 1782348610
+      high_contrast_231: -241180868
+      high_contrast_294: 2118802955
+      high_contrast_246: -848701592
+      high_contrast_296: 894313465
+      high_contrast_257: 342854785
+      high_contrast_289: -1502157354
+      high_contrast_99: -1041868790
+      high_contrast_308: 780005401
+      high_contrast_0: -242623555
+      high_contrast_46: 397195976
+      high_contrast_306: 403620836
+      high_contrast_254: -1309473385
+      high_contrast_34: -1431993039
+      high_contrast_192: -1249263192
+      high_contrast_224: 1270904650
+      high_contrast_148: 2084642544
+      high_contrast_199: 369476450
+      high_contrast_112: 1834248742
+      high_contrast_116: -1751489544
+      high_contrast_206: 1516627098
+      high_contrast_241: -168149183
+      high_contrast_2: -1823048827
+      high_contrast_219: -1540221537
+      high_contrast_45: -353204281
+      high_contrast_56: 295492350
+      high_contrast_189: -672213966
+      high_contrast_5: -1756534406
+      high_contrast_184: -1010446145
+      high_contrast_207: -1974015226
+      high_contrast_59: 1956046653
+      high_contrast_188: -700608520
+      high_contrast_278: -1054960085
+      high_contrast_280: -2031181127
+      high_contrast_86: 1382654698
+      high_contrast_297: 1715052073
+      high_contrast_139: -1249791496
+      high_contrast_76: -69256921
+      high_contrast_266: -1258782858
+      high_contrast_235: -1047557033
+      high_contrast_10: -1543288430
+      high_contrast_129: -2029967570
+      high_contrast_42: -913243351
+      high_contrast_159: -1002147902
+      high_contrast_26: -416741053
+      high_contrast_7: -1038435606
+      high_contrast_146: 1205231637
+      high_contrast_268: -239406438
+      high_contrast_19: -146296701
+      high_contrast_126: 907606869
+      high_contrast_299: 1465095631
+      high_contrast_178: -1231428068
+      high_contrast_23: 2013608678
+      high_contrast_196: -12904115
+      high_contrast_74: 1663115554
+      high_contrast_121: -1953632217
+      high_contrast_233: 988193782
+      high_contrast_293: 379064356
+      high_contrast_273: -1168763975
+      high_contrast_277: -1051666940
+      high_contrast_210: 1190649436
+      high_contrast_44: -1602929987
+      high_contrast_162: -1248364502
+      high_contrast_106: -854813704
+      high_contrast_93: 1759001131
+      high_contrast_248: 335125709
+      high_contrast_51: -769471743
+      high_contrast_221: -1939906792
+      high_contrast_68: 1196357897
+      high_contrast_155: -987638762
+      high_contrast_259: -1854509280
+      high_contrast_78: -1481199288
+      high_contrast_170: -384110787
+      high_contrast_120: -1652232309
+      high_contrast_25: -1651078388
+      high_contrast_79: 2071319797
+      high_contrast_157: -253631445
+      high_contrast_140: 618592889
+      high_contrast_263: -680415832
+      high_contrast_113: 472681767
+      high_contrast_225: -196457658
+      high_contrast_291: -1624541589
+      high_contrast_149: -1741975944
+      high_contrast_203: 1379442694
+      high_contrast_190: 95572356
+      high_contrast_43: 2050484705
+      high_contrast_67: 349380377
+      high_contrast_202: 1569661065
+      high_contrast_65: 1868942164
+      high_contrast_267: -1861021953
+      high_contrast_111: -361964040
+      high_contrast_209: 2035931223
+      high_contrast_234: 1275563919
+      high_contrast_185: 1554026726
+      high_contrast_115: -1958307677
+      high_contrast_134: -781220385
       high_contrast_92: -1641064230
       high_contrast_15: 782783896
       high_contrast_28: -1201344442
       high_contrast_130: 1519452067
-      high_contrast_16: -1983233136
-      high_contrast_22: -875381314
+      high_contrast_175: -258925804
       high_contrast_102: -1640433761
-      high_contrast_134: -781220385
-      high_contrast_49: 1915913774
       high_contrast_96: 1429040753
-      high_contrast_110: 1045251390
-      high_contrast_122: 1317214855
-      high_contrast_127: -557041883
-      high_contrast_39: -639142211
-      high_contrast_41: -492216105
-      high_contrast_85: -769236150
-      high_contrast_66: -1578088314
-      high_contrast_103: 360026341
-      high_contrast_105: 145360437
-      high_contrast_95: -787785498
-      high_contrast_89: -65712862
-      high_contrast_70: 612015330
-      high_contrast_62: 1883949196
-      high_contrast_48: 776416967
-      high_contrast_98: 375464995
-      high_contrast_84: -1312927020
-      high_contrast_73: 1261878684
-      high_contrast_94: -2077715217
       high_contrast_133: 579131109
-      high_contrast_77: -1428904568
+      high_contrast_110: 1045251390
+      high_contrast_213: 546014045
+      high_contrast_41: -492216105
+      high_contrast_95: -787785498
+      high_contrast_85: -769236150
+      high_contrast_103: 360026341
+      high_contrast_195: 690029191
+      high_contrast_105: 145360437
+      high_contrast_166: 1482589566
+      high_contrast_251: 1965866648
+      high_contrast_70: 612015330
+      high_contrast_98: 375464995
+      high_contrast_48: 776416967
+      high_contrast_242: 1464215690
+      high_contrast_84: -1312927020
+      high_contrast_94: -2077715217
+      high_contrast_260: -1570129785
+      high_contrast_272: -926061059
+      high_contrast_216: 1508757255
       high_contrast_63: -160559320
+      high_contrast_222: -904773795
       high_contrast_14: 835953355
-      high_contrast_80: -744208866
-      high_contrast_8: 473414276
+      high_contrast_229: -202480494
+      high_contrast_264: 1411751400
+      high_contrast_179: -447099004
+      high_contrast_302: -217022253
+      high_contrast_198: -849653216
       high_contrast_119: -1270880016
-      high_contrast_47: 2090694424
+      high_contrast_164: 453539953
       high_contrast_53: -1764161057
+      high_contrast_171: -1535942879
+      high_contrast_240: -1706236625
       high_contrast_88: -2051332727
       high_contrast_117: 737447513
-      high_contrast_38: 1366761307
-      high_contrast_9: -922681835
-      high_contrast_36: -1981099168
+      high_contrast_249: -1397892127
       high_contrast_61: 893418079
-      high_contrast_114: -1922800143
-      high_contrast_69: -1742373430
+      high_contrast_217: -1310610285
       high_contrast_6: -1227836897
       high_contrast_131: 1155567798
-      high_contrast_82: 1782348610
+      high_contrast_274: 1847586596
       high_contrast_104: -1878443776
+      high_contrast_187: -471786277
       high_contrast_27: 1147466928
       high_contrast_90: 392138797
-      high_contrast_99: -1041868790
+      high_contrast_167: -1457764994
+      high_contrast_205: 2135043042
+      high_contrast_238: 48818255
+      high_contrast_244: -613164485
       high_contrast_55: 2062408899
       high_contrast_31: 1422948855
-      high_contrast_0: -242623555
+      high_contrast_237: 1459174203
+      high_contrast_262: -330005266
+      high_contrast_271: 648460328
       high_contrast_37: -1449811127
-      high_contrast_46: 397195976
       high_contrast_58: 614124347
-      high_contrast_34: -1431993039
+      high_contrast_261: -1496995036
+      high_contrast_256: -1628559612
+      high_contrast_288: 922548854
+      high_contrast_286: 1230343550
+      high_contrast_290: 434017840
+      high_contrast_285: -2116837244
+      high_contrast_223: 1413200875
       high_contrast_109: 538388764
-      high_contrast_112: 1834248742
-      high_contrast_116: -1751489544
+      high_contrast_265: 738499606
+      high_contrast_255: -460912226
+      high_contrast_303: -1624622245
       high_contrast_107: 1077622883
-      high_contrast_2: -1823048827
+      high_contrast_138: -1591389176
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
