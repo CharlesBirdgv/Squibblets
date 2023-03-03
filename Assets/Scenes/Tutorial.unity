@@ -20246,6 +20246,7 @@ GameObject:
   - component: {fileID: 2102159684}
   - component: {fileID: 2102159689}
   - component: {fileID: 2102159690}
+  - component: {fileID: 2102159691}
   m_Layer: 0
   m_Name: Tutorial_enemy
   m_TagString: Untagged
@@ -20341,7 +20342,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.0011256933, y: -0.34442425}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -20352,7 +20353,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 2, y: 2}
+  m_Size: {x: 0.5091007, y: 1.6269455}
   m_EdgeRadius: 0
 --- !u!224 &2102159687
 RectTransform:
@@ -20479,3 +20480,17 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &2102159691
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2102159681}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 480775b5ec4e97e408a4a8005bfe1d25, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  prey: {fileID: 1210171915}
+  move_speed: 2
