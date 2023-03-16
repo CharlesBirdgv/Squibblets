@@ -10,7 +10,6 @@ public class CreditsLoad : MonoBehaviour
     float timer;
 
     void Start() {
-        animator.Play("Fade_In", 0, 0);
     }
 
     void Update()
