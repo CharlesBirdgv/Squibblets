@@ -7,6 +7,7 @@ using UnityEngine.SceneManagement;
 public class MainMenu : MonoBehaviour
 {
     [SerializeField] GameObject button;
+    private int nextScene;
 
     void Start() 
     {
@@ -15,6 +16,7 @@ public class MainMenu : MonoBehaviour
 
     void StartTutorial()
     {
-        SceneManager.LoadScene(1);
+        nextScene = SceneManager.GetActiveScene().buildIndex + 1;
+        SceneManager.LoadScene(nextScene);
     }
 }
