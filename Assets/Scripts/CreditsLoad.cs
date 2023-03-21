@@ -9,9 +9,6 @@ public class CreditsLoad : MonoBehaviour
     public float delay = 3;
     float timer;
 
-    void Start() {
-    }
-
     void Update()
     {
         timer += Time.deltaTime;
@@ -20,7 +17,6 @@ public class CreditsLoad : MonoBehaviour
             animator.SetTrigger("FadeOut");
         }
     }
-
 
     public void OnFadeComplete(){
         nextScene = SceneManager.GetActiveScene().buildIndex + 1;
