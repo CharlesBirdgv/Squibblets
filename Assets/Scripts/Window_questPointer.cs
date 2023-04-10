@@ -9,7 +9,7 @@ public class Window_questPointer : MonoBehaviour
     
     private void Awake()
     {
-        targetPosition = new Vector3(-9, 14);
+        targetPosition = new Vector3(-9, 14, 0);
         pointerRectTransform = transform.Find("Pointer").GetComponent<RectTransform>();
     }
 
